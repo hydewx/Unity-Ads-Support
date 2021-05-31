@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="549548876131348304" name="MediaControlView_audio_track_none_text">"Wala"</string>
+    <string msgid="4764598467753473351" name="MediaControlView_audio_track_number_text">"Track <ns1:g id="AUDIO_NUMBER">%1$d</ns1:g>"</string>
+    <string msgid="3532548952520840186" name="MediaControlView_audio_track_text">"Audio track"</string>
+    <string msgid="480754169449450083" name="MediaControlView_playback_speed_normal">"Normal"</string>
+    <string msgid="8150324864582460559" name="MediaControlView_playback_speed_text">"Bilis ng pag-playback"</string>
+    <string msgid="1845015629089301203" name="MediaControlView_subtitle_off_text">"I-off"</string>
+    <string msgid="4652664932814816449" name="MediaControlView_subtitle_track_number_and_lang_text">"Track <ns1:g id="TRACK_NUMBER">%1$d</ns1:g> - <ns1:g id="LANG">%2$s</ns1:g>"</string>
+    <string msgid="7764843500931103738" name="MediaControlView_subtitle_track_number_text">"Track <ns1:g id="TRACK_NUMBER">%1$d</ns1:g>"</string>
+    <string msgid="4037918370566028719" name="MediaControlView_time_placeholder">"00:00:00"</string>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Mag-navigate sa home"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Mag-navigate pataas"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Higit pang opsyon"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Tapos na"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Tingnan lahat"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Pumili ng app"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"I-OFF"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"I-ON"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Maghanap…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"I-clear ang query"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Query sa paghahanap"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Maghanap"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Isumite ang query"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Paghahanap gamit ang boses"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Ibahagi sa/kay"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Ibahagi gamit ang <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"I-collapse"</string>
+    <string msgid="6743534657295236036" name="default_notification_channel_name">"Nagpi-play ngayon"</string>
+    <string msgid="5728972524527278943" name="mcv2_back_button_desc">"Bumalik"</string>
+    <string msgid="6888583680833967030" name="mcv2_cc_is_off">"Naka-off ang subtitle. I-click para ipakita ito."</string>
+    <string msgid="8890320846743698774" name="mcv2_cc_is_on">"Naka-on ang subtitle. I-click para itago ito."</string>
+    <string msgid="1892680062375516133" name="mcv2_error_dialog_button">"OK"</string>
+    <string msgid="7189466356853482980" name="mcv2_ffwd_button_desc">"I-forward nang 30 segundo"</string>
+    <string msgid="6900438429115580036" name="mcv2_full_screen_button_desc">"Full screen"</string>
+    <string msgid="1475333855817994058" name="mcv2_music_artist_unknown_text">"Hindi kilalang artist"</string>
+    <string msgid="6768779662371844918" name="mcv2_music_title_unknown_text">"Hindi alam ang pamagat ng kanta"</string>
+    <string msgid="4799850472802157220" name="mcv2_next_button_desc">"Susunod na media"</string>
+    <string msgid="5414417081368449210" name="mcv2_non_music_title_unknown_text">"Hindi alam ang pamagat ng video"</string>
+    <string msgid="4619938179240477643" name="mcv2_overflow_left_button_desc">"Bumalik sa nakaraang listahan ng button"</string>
+    <string msgid="3959698281663418432" name="mcv2_overflow_right_button_desc">"Tumingin pa ng mga button"</string>
+    <string msgid="997297527148989963" name="mcv2_pause_button_desc">"I-pause"</string>
+    <string msgid="1994649551115596877" name="mcv2_play_button_desc">"I-play"</string>
+    <string msgid="1201919666572302119" name="mcv2_playback_error_text">"Hindi ma-play ang item na hiniling mo"</string>
+    <string msgid="5367141424871007842" name="mcv2_previous_button_desc">"Nakaraang media"</string>
+    <string msgid="3498082316888662782" name="mcv2_replay_button_desc">"I-replay"</string>
+    <string msgid="5725552141091554735" name="mcv2_rewind_button_desc">"I-rewind nang 10 segundo"</string>
+    <string msgid="2626125787370091731" name="mcv2_seek_bar_desc">"Progreso ng pag-playback"</string>
+    <string msgid="8453746936008970620" name="mcv2_settings_button_desc">"Mga Setting"</string>
+    <string msgid="4221330012095125431" name="pause_button_content_description">"I-pause"</string>
+    <string msgid="6034272287948142298" name="play_button_content_description">"I-play"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Maghanap"</string>
+    <string msgid="17824442457643717" name="skip_to_next_item_button_content_description">"Lumaktaw sa susunod na item"</string>
+    <string msgid="7233771088610629683" name="skip_to_previous_item_button_content_description">"Lumaktaw sa nakaraang item"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

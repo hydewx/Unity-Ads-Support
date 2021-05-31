@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="549548876131348304" name="MediaControlView_audio_track_none_text">"ਕੋਈ ਨਹੀਂ"</string>
+    <string msgid="4764598467753473351" name="MediaControlView_audio_track_number_text">"ਟਰੈਕ <ns1:g id="AUDIO_NUMBER">%1$d</ns1:g>"</string>
+    <string msgid="3532548952520840186" name="MediaControlView_audio_track_text">"ਆਡੀਓ ਟਰੈਕ"</string>
+    <string msgid="480754169449450083" name="MediaControlView_playback_speed_normal">"ਸਧਾਰਨ"</string>
+    <string msgid="8150324864582460559" name="MediaControlView_playback_speed_text">"ਚਲਾਉਣ ਦੀ ਗਤੀ"</string>
+    <string msgid="1845015629089301203" name="MediaControlView_subtitle_off_text">"ਬੰਦ"</string>
+    <string msgid="4652664932814816449" name="MediaControlView_subtitle_track_number_and_lang_text">"ਟਰੈਕ <ns1:g id="TRACK_NUMBER">%1$d</ns1:g> - <ns1:g id="LANG">%2$s</ns1:g>"</string>
+    <string msgid="7764843500931103738" name="MediaControlView_subtitle_track_number_text">"ਟਰੈਕ <ns1:g id="TRACK_NUMBER">%1$d</ns1:g>"</string>
+    <string msgid="4037918370566028719" name="MediaControlView_time_placeholder">"00:00:00"</string>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"ਹੋਮ \'ਤੇ ਜਾਓ"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"ਉੱਪਰ ਜਾਓ"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"ਹੋਰ ਵਿਕਲਪ"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"ਹੋ ਗਿਆ"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"ਸਭ ਦੇਖੋ"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"ਇੱਕ ਐਪ ਚੁਣੋ"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"ਬੰਦ"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ਚਾਲੂ"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"ਮਿਟਾਓ"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"ਖੋਜ…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"ਪੁੱਛਗਿੱਛ ਕਲੀਅਰ ਕਰੋ"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"ਖੋਜ ਪੁੱਛਗਿੱਛ"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"ਖੋਜ"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"ਪੁੱਛਗਿੱਛ ਸਪੁਰਦ ਕਰੋ"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"ਅਵਾਜ਼ੀ ਖੋਜ"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"ਇਸ ਨਾਲ ਸਾਂਝਾ ਕਰੋ"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ਨਾਲ ਸਾਂਝਾ ਕਰੋ"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"ਸਮੇਟੋ"</string>
+    <string msgid="6743534657295236036" name="default_notification_channel_name">"ਹੁਣੇ ਚੱਲ ਰਿਹਾ ਹੈ"</string>
+    <string msgid="5728972524527278943" name="mcv2_back_button_desc">"ਪਿੱਛੇ"</string>
+    <string msgid="6888583680833967030" name="mcv2_cc_is_off">"ਉਪਸਿਰਲੇਖ ਬੰਦ ਹੈ। ਇਸਨੂੰ ਦਿਖਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ।"</string>
+    <string msgid="8890320846743698774" name="mcv2_cc_is_on">"ਉਪਸਿਰਲੇਖ ਚਾਲੂ ਹੈ। ਇਸਨੂੰ ਲੁਕਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ।"</string>
+    <string msgid="1892680062375516133" name="mcv2_error_dialog_button">"ਠੀਕ ਹੈ"</string>
+    <string msgid="7189466356853482980" name="mcv2_ffwd_button_desc">"30 ਸਕਿੰਟ ਅੱਗੇ ਜਾਓ"</string>
+    <string msgid="6900438429115580036" name="mcv2_full_screen_button_desc">"ਪੂਰੀ-ਸਕ੍ਰੀਨ"</string>
+    <string msgid="1475333855817994058" name="mcv2_music_artist_unknown_text">"ਕਲਾਕਾਰ ਅਗਿਆਤ ਹੈ"</string>
+    <string msgid="6768779662371844918" name="mcv2_music_title_unknown_text">"ਅਗਿਆਤ ਗੀਤ ਸਿਰਲੇਖ"</string>
+    <string msgid="4799850472802157220" name="mcv2_next_button_desc">"ਅਗਲਾ ਮੀਡੀਆ"</string>
+    <string msgid="5414417081368449210" name="mcv2_non_music_title_unknown_text">"ਅਗਿਆਤ ਵੀਡੀਓ ਸਿਰਲੇਖ"</string>
+    <string msgid="4619938179240477643" name="mcv2_overflow_left_button_desc">"ਪਿਛਲੀ ਬਟਨ ਸੂਚੀ \'ਤੇ ਵਾਪਸ ਜਾਓ"</string>
+    <string msgid="3959698281663418432" name="mcv2_overflow_right_button_desc">"\'ਹੋਰ ਦੇਖੋ\' ਬਟਨ"</string>
+    <string msgid="997297527148989963" name="mcv2_pause_button_desc">"ਰੋਕੋ"</string>
+    <string msgid="1994649551115596877" name="mcv2_play_button_desc">"ਚਲਾਓ"</string>
+    <string msgid="1201919666572302119" name="mcv2_playback_error_text">"ਤੁਹਾਡੇ ਵੱਲੋਂ ਬੇਨਤੀ ਕੀਤੀ ਗਈ ਆਈਟਮ ਨਹੀਂ ਚਲਾਈ ਜਾ ਸਕੀ"</string>
+    <string msgid="5367141424871007842" name="mcv2_previous_button_desc">"ਪਿਛਲਾ ਮੀਡੀਆ"</string>
+    <string msgid="3498082316888662782" name="mcv2_replay_button_desc">"ਮੁੜ ਚਲਾਓ"</string>
+    <string msgid="5725552141091554735" name="mcv2_rewind_button_desc">"10 ਸਕਿੰਟ ਪਿੱਛੇ ਕਰੋ"</string>
+    <string msgid="2626125787370091731" name="mcv2_seek_bar_desc">"ਪਲੇਬੈਕ ਪ੍ਰਗਤੀ"</string>
+    <string msgid="8453746936008970620" name="mcv2_settings_button_desc">"ਸੈਟਿੰਗਾਂ"</string>
+    <string msgid="4221330012095125431" name="pause_button_content_description">"ਰੋਕੋ"</string>
+    <string msgid="6034272287948142298" name="play_button_content_description">"ਚਲਾਓ"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"ਖੋਜ"</string>
+    <string msgid="17824442457643717" name="skip_to_next_item_button_content_description">"ਅਗਲੀ ਆਈਟਮ \'ਤੇ ਜਾਓ"</string>
+    <string msgid="7233771088610629683" name="skip_to_previous_item_button_content_description">"ਪਿਛਲੀ ਆਈਟਮ \'ਤੇ ਜਾਓ"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

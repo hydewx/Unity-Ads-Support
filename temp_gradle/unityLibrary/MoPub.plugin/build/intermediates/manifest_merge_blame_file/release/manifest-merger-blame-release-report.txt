@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mopub.unity.plugin" >
+4
+5    <uses-sdk android:targetSdkVersion="16" />
+5-->C:\Users\wx\test\temp_gradle\unityLibrary\MoPub.plugin\AndroidManifest.xml
+6
+7    <application />
+7-->C:\Users\wx\test\temp_gradle\unityLibrary\MoPub.plugin\AndroidManifest.xml:4:5-20
+8
+9</manifest>
